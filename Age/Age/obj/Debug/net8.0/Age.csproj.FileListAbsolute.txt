@@ -1,0 +1,14 @@
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\bin\Debug\net8.0\Age.exe
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\bin\Debug\net8.0\Age.deps.json
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\bin\Debug\net8.0\Age.runtimeconfig.json
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\bin\Debug\net8.0\Age.dll
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\bin\Debug\net8.0\Age.pdb
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.AssemblyInfoInputs.cache
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.AssemblyInfo.cs
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.csproj.CoreCompileInputs.cache
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.dll
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\refint\Age.dll
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.pdb
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\Age.genruntimeconfig.cache
+C:\Users\saghabozorgi\Desktop\C#\Age\Age\obj\Debug\net8.0\ref\Age.dll
